@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6c9e320b-6901-4e5f-9f81-0700461dfaf1" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/installer.py" />
-    </list>
+    <list default="true" id="6c9e320b-6901-4e5f-9f81-0700461dfaf1" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -217,12 +215,12 @@
       <option name="presentableId" value="Default" />
       <updated>1524132066880</updated>
       <workItem from="1524132068815" duration="245000" />
-      <workItem from="1524132353134" duration="69000" />
+      <workItem from="1524132353134" duration="358000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="314000" />
+    <option name="totallyTimeSpent" value="603000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="6" />
