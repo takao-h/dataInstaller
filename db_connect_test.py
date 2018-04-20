@@ -16,8 +16,9 @@ cur.execute("SHOW STATUS LIKE 'Uptime'")
 print(cur.fetchone())
 # => ('Uptime', '22073875')
 
-stm = "create table user"
+stm = "select * from test"
 cur.execute(stm)
+print(cur.fetchone())
 
 # => True
 cnx.close()
